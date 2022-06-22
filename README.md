@@ -6,13 +6,14 @@ All m-files are made entirely by the authors of the simulator. Otherwise, inner 
 If the use of this simulator leads to a scientific publication, please, cite our work: 
 
 >@article{Polak2021,
->  title={Simulator for Performance Study of the {IEEE} 802.11ay Single Carrier Physical Layer in mm-wave Bands},
+>  title={BER and throughput performances of {IEEE} 802.11ay SC-PHY over measured 60 GHz indoor channels},
 >  author={Polak, Ladislav and Milos, Jiri and Zedka, Radim, and Blumenstein, Jiri and Mecklenbräuker, Christoph},
->  journal={TBD},
+>  journal={Telecommunication Systems},
 >  volume={TBD},
 >  number={TBD},
->  pages={1--31},
->  year={2021}
+>  pages={1--12},
+>  DOI={10.1007/s11235-022-00928-9},
+>  year={2022}
 >  }
 
 More details about our 802.11ay SC-PHY simulator can be found in the above mentioned article. When the full version of our paper will be available, more details and complementary sources will be presented on this repository.

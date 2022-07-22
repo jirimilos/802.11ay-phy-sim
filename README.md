@@ -9,11 +9,12 @@ If the use of this simulator leads to a scientific publication, please, cite our
 >  title={BER and throughput performances of {IEEE} 802.11ay SC-PHY over measured 60 GHz indoor channels},
 >  author={Polak, Ladislav and Milos, Jiri and Zedka, Radim, and Blumenstein, Jiri and Mecklenbräuker, Christoph},
 >  journal={Telecommunication Systems},
->  volume={TBD},
->  number={TBD},
->  pages={1--12},
+>  volume={80},
+>  number={4},
+>  pages={573--587},
 >  DOI={10.1007/s11235-022-00928-9},
->  year={2022}
+>  year={2022},
+>  link={[Online](https://link.springer.com/article/10.1007/s11235-022-00928-9)}
 >  }
 
 More details about our 802.11ay SC-PHY simulator can be found in the above mentioned article. When the full version of our paper will be available, more details and complementary sources will be presented on this repository.
